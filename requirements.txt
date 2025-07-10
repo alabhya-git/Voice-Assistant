@@ -1,0 +1,15 @@
+Flask-SocketIO
+pyaudio
+numpy
+sentence_transformers
+faiss-cpu
+requests
+python-dotenv
+torch
+groq
+soundfile
+gevent
+ffmpeg-python 
+transformers
+sentence-transformers
+pymilvus
