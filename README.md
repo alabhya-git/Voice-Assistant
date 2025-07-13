@@ -11,7 +11,7 @@ A fully offline, voice-enabled Retrieval-Augmented Generation (RAG) assistant bu
 ---
 
 ## 📁 Project Structure
-
+```
 Voice-Assistant/
 ├── main.py # Entry point to run the assistant
 ├── config.py # Configuration for model paths & settings
@@ -22,13 +22,12 @@ Voice-Assistant/
 │ ├── text_to_speech.py # Speak answers with pyttsx3
 │ ├── query_handler.py # End-to-end query handling
 │ └── query_rewriter.py # Enhance queries before retrieval
-├── documents/ # Folder to upload .pdf or .txt files
 ├── models/ # Local GGUF models (excluded via .gitignore)
 ├── index/ # LlamaIndex cache/index files
 ├── requirements.txt # All dependencies
 ├── .gitignore # Prevents heavy or cache files from being committed
 └── README.md # This file
-
+```
 
 ---
 
