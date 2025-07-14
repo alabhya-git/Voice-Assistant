@@ -1,0 +1,10 @@
+# Ignore model files
+models/
+*.gguf
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore LlamaIndex index
+index/
